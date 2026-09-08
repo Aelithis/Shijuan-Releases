@@ -1,0 +1,16 @@
+name: 功能建议
+description: 希望拾卷多做点什么
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 想解决什么
+      description: 先说场景,再说你设想的做法。
+    validations:
+      required: true
+  - type: textarea
+    id: ref
+    attributes:
+      label: 有没有参考
+      description: 别的阅读器怎么做的,截图或链接都行。
