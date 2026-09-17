@@ -4,7 +4,7 @@
 
 这个仓库只做两件事:发布安装包,收集反馈。拾卷是闭源软件,这里没有源代码。
 
-官网:https://emend.aelith.org
+官网:https://shijuan.aelith.org
 
 ## 下载
 
