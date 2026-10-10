@@ -1,4 +1,4 @@
-# 拾卷 Emend
+# 拾卷 Shijuan
 
 跨平台电子书阅读器,支持 macOS、Windows 和 Android。
 
@@ -8,7 +8,7 @@
 
 ## 下载
 
-拾卷还没有对外发布版本。第一个公开版本会出现在本仓库的 [Releases](https://github.com/Aelithis/Emend-Releases/releases) 页面,官网的下载页也会同步更新。
+拾卷还没有对外发布版本。第一个公开版本会出现在本仓库的 [Releases](https://github.com/Aelithis/Shijuan-Releases/releases) 页面,官网的下载页也会同步更新。
 
 | 平台 | 安装包 | 说明 |
 | --- | --- | --- |
@@ -20,8 +20,8 @@
 
 ## 反馈
 
-- 遇到问题或想提需求,开一个 [Issue](https://github.com/Aelithis/Emend-Releases/issues/new/choose),按模板填就好。
-- 使用上的疑问和想法去 [Discussions](https://github.com/Aelithis/Emend-Releases/discussions)。
+- 遇到问题或想提需求,开一个 [Issue](https://github.com/Aelithis/Shijuan-Releases/issues/new/choose),按模板填就好。
+- 使用上的疑问和想法去 [Discussions](https://github.com/Aelithis/Shijuan-Releases/discussions)。
 
 报问题时请带上版本号和平台。桌面版的日志在设置的「同步」分区里可以直接打开日志目录,安卓版在「关于」分区复制诊断信息。
 
